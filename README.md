@@ -13,3 +13,4 @@ npm install
 using Terminal, navigate to root directory of app and run:
 
 npm start
+# react-football
